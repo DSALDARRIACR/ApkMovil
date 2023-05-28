@@ -33,7 +33,7 @@ class _MyappFormState extends State<MyappForm> {
                       'Login',
                       style: TextStyle(
                         fontFamily: 'cursive',
-                        fontSize: 50.0
+                        fontSize: 90.0
                       ),
                     )
                   ],
